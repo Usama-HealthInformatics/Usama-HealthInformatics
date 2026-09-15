@@ -1,151 +1,195 @@
 # Muhammad Usama bin Umar
 
-## Cybersecurity | SOC | Network Security | Cloud Security | Python
+## Cybersecurity | SOC Operations | Cloud Security | Network Security | Python
 
-Cybersecurity practitioner focused on **defensive security, security operations, network security, Linux security, cloud security, and security automation**.
+Cybersecurity-focused technology professional building practical capabilities across **defensive security, security operations, cloud security, network security, Linux security, Python automation, data analysis, and health informatics**.
 
-I use GitHub to document practical security projects, technical investigations, security architecture, and automation work.
+My GitHub portfolio combines security labs with software, data, and healthcare technology projects to demonstrate practical technical problem-solving.
 
 ---
 
-## 🛡️ Cybersecurity Portfolio
+# 🛡️ Cybersecurity Portfolio
 
-My primary cybersecurity work is organized into four focused projects.
+My primary focus is defensive cybersecurity and security operations.
 
-### 🔐 Linux Security Lab
+## 🔐 Linux Security Lab
 
-Linux system hardening, access control, SSH security, logging, auditing, and defensive system security.
+Linux security hardening, access control, SSH security, logging, auditing, and defensive system security.
 
-[View Linux Security Lab](https://github.com/Usama-HealthInformatics/linux-security-lab?utm_source=chatgpt.com)
+[Linux Security Lab](https://github.com/Usama-HealthInformatics/linux-security-lab?utm_source=chatgpt.com)
 
-### 🌐 Network Security Lab
+## 🌐 Network Security Lab
 
 Network security assessment, traffic analysis, packet inspection, firewall controls, network segmentation, and defensive monitoring.
 
-[View Network Security Lab](https://github.com/Usama-HealthInformatics/network-security-lab?utm_source=chatgpt.com)
+[Network Security Lab](https://github.com/Usama-HealthInformatics/network-security-lab?utm_source=chatgpt.com)
 
-### 🛰️ SOC Home Lab
+## 🛰️ SOC Home Lab
 
-SOC operations, authentication investigation, detection engineering, log analysis, security monitoring, and incident response.
+Security operations, authentication investigation, detection engineering, log analysis, security monitoring, and incident-response concepts.
 
-[View SOC Home Lab](https://github.com/Usama-HealthInformatics/soc-home-lab?utm_source=chatgpt.com)
+[SOC Home Lab](https://github.com/Usama-HealthInformatics/soc-home-lab?utm_source=chatgpt.com)
 
-### ☁️ Cloud Security Lab
+## ☁️ Cloud Security Lab
 
-Cloud security architecture, IAM, least privilege, network security, monitoring, logging, data protection, and cloud risk assessment.
+Cloud security architecture, IAM, least privilege, network security, logging, monitoring, data protection, and cloud risk assessment.
 
-[View Cloud Security Lab](https://github.com/Usama-HealthInformatics/cloud-security-lab?utm_source=chatgpt.com)
-
----
-
-## 🐍 Python & Security Automation
-
-I also develop Python projects for programming, automation, data processing, and security-related problem solving.
-
-### Python Project
-
-[View Python Project Repository](https://github.com/Usama-HealthInformatics?utm_source=chatgpt.com)
-
-> The Python project is part of my broader technical portfolio and demonstrates programming and automation capabilities that complement my cybersecurity work.
+[Cloud Security Lab](https://github.com/Usama-HealthInformatics/cloud-security-lab?utm_source=chatgpt.com)
 
 ---
 
-## 🔎 Core Security Areas
+# 🐍 Python, Data & Health Informatics
 
-| Area                   | Focus                                        |
-| ---------------------- | -------------------------------------------- |
-| 🛡️ Defensive Security | Hardening, security controls, risk reduction |
-| 🛰️ SOC Operations     | Monitoring, triage, detection, investigation |
-| 🌐 Network Security    | Traffic analysis, segmentation, firewalls    |
-| 🐧 Linux Security      | Hardening, SSH, permissions, auditing        |
-| ☁️ Cloud Security      | IAM, logging, monitoring, data protection    |
-| 🚨 Incident Response   | Investigation, containment, recovery         |
-| 🔐 IAM                 | Least privilege, MFA, access control         |
-| 📊 Security Monitoring | Logs, alerts, detection concepts             |
-| 🐍 Python              | Automation, scripting, security tooling      |
+My software and data projects demonstrate Python programming, SQL, healthcare data analysis, logical problem solving, and data-driven application development.
 
----
+## 📊 Healthcare Data Analyzer
 
-## 🧰 Technical Skills
+Python-based healthcare data analysis project using **Pandas and Matplotlib** to analyze healthcare datasets and identify patterns in patient symptoms and conditions.
 
-**Security**
+[Health Data Analyzer — Python](https://github.com/Usama-HealthInformatics/health-data-analyzer-python?utm_source=chatgpt.com)
 
-`SOC` · `SIEM` · `Incident Response` · `Security Monitoring` · `Risk Assessment` · `Security Hardening`
+## 🗄️ Healthcare SQL Patient System
 
-**Networking**
+Healthcare patient-management project demonstrating **Python + SQL + SQLite** integration for storing and retrieving patient records.
 
-`TCP/IP` · `DNS` · `HTTP/HTTPS` · `Firewalls` · `Network Segmentation` · `Traffic Analysis`
+[Healthcare SQL Patient System](https://github.com/Usama-HealthInformatics/healthcare-sql-patient-system?utm_source=chatgpt.com)
 
-**Systems**
+## 🧠 Symptom Logic — Python
 
-`Linux` · `Windows` · `SSH` · `System Administration`
+Python-based healthcare logic project exploring structured symptom input, rule-based reasoning, and healthcare decision-support concepts.
 
-**Cloud**
+[Symptom Logic — Python](https://github.com/Usama-HealthInformatics/Symptom-Logic-Python-?utm_source=chatgpt.com)
 
-`IAM` · `Cloud Security` · `Logging` · `Monitoring` · `Encryption`
+## 🌐 Health Informatics Portfolio
 
-**Programming**
+Personal portfolio project combining healthcare, information technology, Python, SQL, and health-data concepts.
 
-`Python` · `Bash` · `Git` · `GitHub`
+[Health Informatics Portfolio](https://github.com/Usama-HealthInformatics/usama-dev.github.io?utm_source=chatgpt.com)
 
 ---
 
-## 📂 Security Workflow
+# 🔎 Core Technical Areas
 
-My projects follow a defensive security lifecycle:
+### Cybersecurity
+
+* Security Operations (SOC)
+* Defensive Security
+* Incident Response
+* Security Monitoring
+* Log Analysis
+* Threat Detection
+* Risk Assessment
+* Security Hardening
+* Linux Security
+* Network Security
+* Cloud Security
+* Identity & Access Management
+* Network Segmentation
+
+### Programming & Data
+
+* Python
+* SQL
+* SQLite
+* Pandas
+* Matplotlib
+* Bash
+* Git
+* GitHub
+
+### Systems & Networking
+
+* Linux
+* Windows
+* TCP/IP
+* DNS
+* HTTP/HTTPS
+* SSH
+* Firewalls
+* Network Monitoring
+
+### Cloud Security
+
+* IAM
+* Least Privilege
+* MFA
+* Security Logging
+* Monitoring
+* Encryption
+* Cloud Network Security
+* Defense in Depth
+
+---
+
+# 🔄 Security & Technology Workflow
 
 ```text
-        SYSTEM SECURITY
-              ↓
-        NETWORK SECURITY
-              ↓
-       SECURITY MONITORING
-              ↓
-     DETECTION & INVESTIGATION
-              ↓
-       INCIDENT RESPONSE
-              ↓
-         CLOUD SECURITY
-              ↓
-      CONTINUOUS IMPROVEMENT
+                    CYBERSECURITY
+                         │
+          ┌──────────────┼──────────────┐
+          ↓              ↓              ↓
+       Linux         Network          Cloud
+       Security      Security        Security
+          │              │              │
+          └──────────────┼──────────────┘
+                         ↓
+                 Security Monitoring
+                         ↓
+                  Detection & Triage
+                         ↓
+                  Investigation
+                         ↓
+                 Incident Response
+                         ↓
+                 Continuous Improvement
 ```
 
 ---
 
-## 📚 Professional Development
+# 📂 Selected Technical Work
 
-I continuously develop my cybersecurity capabilities through:
-
-* Practical security laboratories
-* SOC and defensive-security exercises
-* Cloud-security studies
-* Cybersecurity certifications
-* Python and security automation
-* Technical research and documentation
-
----
-
-## 🎯 Current Focus
-
-**Defensive Cybersecurity • SOC Operations • Cloud Security • Network Defense • Security Automation**
-
-I am particularly interested in building security capabilities that improve **prevention, detection, investigation, response, and resilience**.
+| Area                  | Projects                      |
+| --------------------- | ----------------------------- |
+| 🛡️ Cybersecurity     | Linux Security Lab            |
+| 🌐 Network Defense    | Network Security Lab          |
+| 🛰️ SOC               | SOC Home Lab                  |
+| ☁️ Cloud Security     | Cloud Security Lab            |
+| 🐍 Python             | Health Data Analyzer          |
+| 🗄️ SQL               | Healthcare SQL Patient System |
+| 🧠 Logic / Healthcare | Symptom Logic — Python        |
+| 🌐 Portfolio          | Health Informatics Portfolio  |
 
 ---
 
-## 🌐 Professional Links
+# 🎯 Current Professional Focus
 
-[GitHub](https://github.com/Usama-HealthInformatics?utm_source=chatgpt.com)
+**Defensive Cybersecurity • SOC Operations • Cloud Security • Network Defense • Security Automation • Python • Health Informatics**
+
+I am particularly interested in practical security engineering, security monitoring, detection and response, cloud security controls, and technology-driven solutions for sensitive data environments.
 
 ---
 
-> **Build securely. Monitor continuously. Respond intelligently.**
+# 📚 Professional Development
 
+My portfolio is continuously evolving through:
 
-### 🛠️ Technologies
+* Cybersecurity certifications and training
+* Defensive security laboratories
+* SOC and incident-response exercises
+* Cloud security studies
+* Python and SQL development
+* Healthcare data analysis
+* Technical documentation
+* Security research
 
-`Python` `Linux` `Git` `GitHub` `Networking` `SIEM` `Cloud Security`
+---
 
-### 🎯 Career Goal
+# 💼 Portfolio
 
-To develop into a cybersecurity professional specializing in **SOC operations, cloud security, security monitoring, and incident response**.
+[GitHub Profile](https://github.com/Usama-HealthInformatics?utm_source=chatgpt.com)
+
+[Health Informatics Portfolio](https://github.com/Usama-HealthInformatics/usama-dev.github.io?utm_source=chatgpt.com)
+
+---
+
+> **Secure systems. Analyze data. Automate intelligently. Improve continuously.**
