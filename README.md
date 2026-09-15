@@ -1,6 +1,6 @@
 # Hi, I'm Usama 👋
 
-## Cybersecurity Student | SOC & Cloud Security | Health Informatics
+## Cybersecurity  | SOC & Cloud Security | Health Informatics
 
 I am currently developing practical skills in cybersecurity, security operations, Linux, networking, cloud security, and incident response.
 
